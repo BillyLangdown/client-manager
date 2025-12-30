@@ -30,4 +30,3 @@ A simple interface to add, view, edit, and manage clients with notes in one plac
 - Authentication
 - Client tags (e.g. Active / Lead)
 - Search and filtering
->>>>>>> cbee672c44127721cd096ef7f50d1cc82dbb2823
